@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RetoAppMockup</string>
+    <string name="username">Username</string>
+    <string name="trouble_logging_in">Trouble logging in?</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Log in</string>
+
+    <!-- Strings del segundo activity:Add Tags -->
+    <string name="et_busq">Search Tags</string>
+    <string name="tv_suggested">Suggested Tags</string>
+    <string name="tv_all">All Tags</string>
+    <string name="btn_done">Done</string>
+    <string name="rbtn_1">Soccer</string>
+    <string name="rbtn_2">Multiplayer</string>
+    <string name="rbtn_3">Competitive</string>
+    <string name="rbtn_4">Plating with Viewers</string>
+    <string name="rbtn_5">Lets Play</string>
+
+
+    <!-- Strings de la tercera activity:Profile -->
+    <string name="btn_following">Following</string>
+    <string name="btn_discover">Discover</string>
+    <string name="btn_browse">Browse</string>
+    <string name="btn_videos">Videos</string>
+    <string name="btn_clips">Clips</string>
+    <string name="btn_info">Info</string>
+    <string name="btn_chat">Chat</string>
+    <string name="btn_live"> Go Live</string>
+    <string name="btn_viewdash">View Dashboard</string>
+    <string name="tv_user">jiholim</string>
+    <string name="tv_follow">Followers</string>
+    <string name="tv_views">Views</string>
+    <string name="count_follow">0</string>
+    <string name="message_video">This Channel has no videos</string>
+    <string name="count_views">0</string>
+    <string name="message_alert">Click OK to save the changes, or Cancel to discard the changes:</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="config">Config</string>
+
+
+</resources>
